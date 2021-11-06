@@ -1,0 +1,66 @@
+[33mcommit 14bf228bf4e69f2beb8fd84510379da991f22b9e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 3c1fa1e 871b7b2
+Author: yuukichi-menso <ohs50439@gmail.com>
+Date:   Sat Nov 6 19:46:26 2021 +0900
+
+    Merge branch 'feature'
+
+[33mcommit 871b7b2fd47e2db846aca95e8bc5241d0fb7cf65[m[33m ([m[1;32mfeature[m[33m)[m
+Author: yuukichi-menso <ohs50439@gmail.com>
+Date:   Sat Nov 6 19:45:54 2021 +0900
+
+    featureを追記
+
+[33mcommit 3c1fa1e1f624d60908e5d503b3686362b49b73a6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: yuukichi-menso <93438675+yuukichi-menso@users.noreply.github.com>
+Date:   Sat Nov 6 19:30:07 2021 +0900
+
+    Update index.html
+
+[33mcommit fcee2c1eba96191138d3b04719b9564e4b0881b7[m
+Author: yuukichi-menso <ohs50439@gmail.com>
+Date:   Sat Nov 6 19:19:06 2021 +0900
+
+    master.htmlファイルを新規作成
+
+[33mcommit 97b49a832a6fa60b93b342a71f58ad30eabeea4c[m[33m ([m[1;31morigin/feature[m[33m)[m
+Author: yuukichi-menso <ohs50439@gmail.com>
+Date:   Sat Nov 6 19:14:21 2021 +0900
+
+    feature.htmlを新規追加
+
+[33mcommit bdfc26ed1306844bafb82d5d86cea9798ccf1936[m
+Author: yuukichi-menso <93438675+yuukichi-menso@users.noreply.github.com>
+Date:   Wed Nov 3 19:31:41 2021 +0900
+
+    Update home.html
+
+[33mcommit 1677a761d86898795d91a946f235ae5f09deae89[m
+Author: yuukichi-menso <93438675+yuukichi-menso@users.noreply.github.com>
+Date:   Wed Nov 3 19:17:23 2021 +0900
+
+    Create home.html
+
+[33mcommit 22b077fb9856e2692e54312fac94c41a9b43158d[m
+Author: yuukichi-menso <ohs50439@gmail.com>
+Date:   Wed Nov 3 18:51:30 2021 +0900
+
+    git commit --ammend追記
+
+[33mcommit 5cfb1b1615fa4431de76562fc02a5f333670747e[m
+Author: yuukichi-menso <ohs50439@gmail.com>
+Date:   Wed Nov 3 18:29:22 2021 +0900
+
+    gitignoreファイルを追加
+
+[33mcommit bb56c5bbe2a1157991c18b7536a4910c26f06288[m
+Author: yuukichi-menso <ohs50439@gmail.com>
+Date:   Sun Oct 31 21:20:38 2021 +0900
+
+    git diffを追記
+
+[33mcommit e20e2d8cc1edf907dc7a49584edf722575e04f34[m
+Author: yuukichi-menso <ohs50439@gmail.com>
+Date:   Sun Oct 31 21:13:50 2021 +0900
+
+    git statusコマンドを追記
